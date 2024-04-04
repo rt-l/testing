@@ -1,0 +1,14 @@
+/home/student/git/pfms-2024a-rt-l/skeleton/2024a_a1_skeleton/build/CMakeFiles/controller.dir
+/home/student/git/pfms-2024a-rt-l/skeleton/2024a_a1_skeleton/build/CMakeFiles/mission.dir
+/home/student/git/pfms-2024a-rt-l/skeleton/2024a_a1_skeleton/build/CMakeFiles/a1.dir
+/home/student/git/pfms-2024a-rt-l/skeleton/2024a_a1_skeleton/build/CMakeFiles/edit_cache.dir
+/home/student/git/pfms-2024a-rt-l/skeleton/2024a_a1_skeleton/build/CMakeFiles/rebuild_cache.dir
+/home/student/git/pfms-2024a-rt-l/skeleton/2024a_a1_skeleton/build/test/CMakeFiles/example.dir
+/home/student/git/pfms-2024a-rt-l/skeleton/2024a_a1_skeleton/build/test/CMakeFiles/mission_test.dir
+/home/student/git/pfms-2024a-rt-l/skeleton/2024a_a1_skeleton/build/test/CMakeFiles/testAudi.dir
+/home/student/git/pfms-2024a-rt-l/skeleton/2024a_a1_skeleton/build/test/CMakeFiles/testHusky.dir
+/home/student/git/pfms-2024a-rt-l/skeleton/2024a_a1_skeleton/build/test/CMakeFiles/testAudiReachGoals.dir
+/home/student/git/pfms-2024a-rt-l/skeleton/2024a_a1_skeleton/build/test/CMakeFiles/testHuskyReachGoals.dir
+/home/student/git/pfms-2024a-rt-l/skeleton/2024a_a1_skeleton/build/test/CMakeFiles/testMission.dir
+/home/student/git/pfms-2024a-rt-l/skeleton/2024a_a1_skeleton/build/test/CMakeFiles/edit_cache.dir
+/home/student/git/pfms-2024a-rt-l/skeleton/2024a_a1_skeleton/build/test/CMakeFiles/rebuild_cache.dir
